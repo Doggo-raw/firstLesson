@@ -1,0 +1,7 @@
+C:\Users\Студент\source\repos\firstLesson\bin\Debug\firstLesson.exe.config
+C:\Users\Студент\source\repos\firstLesson\bin\Debug\firstLesson.exe
+C:\Users\Студент\source\repos\firstLesson\bin\Debug\firstLesson.pdb
+C:\Users\Студент\source\repos\firstLesson\obj\Debug\firstLesson.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\firstLesson\obj\Debug\firstLesson.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\firstLesson\obj\Debug\firstLesson.exe
+C:\Users\Студент\source\repos\firstLesson\obj\Debug\firstLesson.pdb
